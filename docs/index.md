@@ -55,8 +55,7 @@ Roy Melzer is a seasoned Patent Portfolio Manager, IP Consultant, and Patent Lea
 
 Join us in redefining endpoint security for a remote-first world—secure data where it truly matters: at the user’s eye level.
 
-**Lior Shalev**
-
-**lior.s@endpoint-sec.com**
+**Lior Shalev** \
+[lior.s@endpoint-sec.com](mailto:lior.s@endpoint-sec.com)
 
 ![logo](assets/logo.png)
