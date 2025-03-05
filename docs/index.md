@@ -1,13 +1,17 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
 # Endpoint Security: Air-Gap Protection for Remote Work
 
-<aside>
-💡
+{: .highlight-title }
 
-**Air-Gap Protection for Remote Work**
-
-We deliver the ultimate air-gap security for remote endpoints by ensuring data is only decrypted at the user’s eye level.
-
-</aside>
+> **Air-Gap Protection for Remote Work**
+>
+> We deliver the ultimate air-gap security for remote endpoints by ensuring data is only decrypted at the user’s eye level.
 
 ## The Problem
 
@@ -31,13 +35,19 @@ We generate unique encryption keys using each user’s biometric data, ensuring 
 
 ### Lior Shalev
 
-https://www.linkedin.com/in/liorshalev/
+[https://www.linkedin.com/in/liorshalev/](https://www.linkedin.com/in/liorshalev/)
 
 Lior is a software developer with extensive experience designing and delivering high-performance, cross-platform solutions on Windows, Linux, Android, iOS, and cloud environments. Adept at building robust software pipelines and leading teams. Recognized for driving innovation in cybersecurity, large-scale distributed systems, and embedded software projects.
 
+### Ronen Rozenberg
+
+[https://www.linkedin.com/in/ronen-rozenberg-80042a10/](https://www.linkedin.com/in/ronen-rozenberg-80042a10/)
+
+Ronen has been at the forefront of computer vision AI technology for over 15 years, leading research and development teams in deep learning and AI across various startup companies. Most recently, he was the Head of AI at Sizer.
+
 ### Roy Melzer
 
-https://www.linkedin.com/in/roymelzer/
+[https://www.linkedin.com/in/roymelzer/](https://www.linkedin.com/in/roymelzer/)
 
 Roy Melzer is a seasoned Patent Portfolio Manager, IP Consultant, and Patent Leader. He specializes in protecting innovation, optimizing patent portfolios, and ensuring a strong competitive edge. His strategic insights help drive our IP roadmap, safeguard our technology, and enhance market positioning.
 
@@ -49,4 +59,4 @@ Join us in redefining endpoint security for a remote-first world—secure data w
 
 **lior.s@endpoint-sec.com**
 
-![logo1.jpeg](attachment:f28b5bf4-8f5b-4875-a448-3ae4623ea47b:logo1.jpeg)
+![logo](assets/logo.png)
