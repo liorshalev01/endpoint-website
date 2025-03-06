@@ -39,6 +39,12 @@ We generate unique encryption keys using each user’s biometric data, ensuring 
 
 Lior is a software developer with extensive experience designing and delivering high-performance, cross-platform solutions on Windows, Linux, Android, iOS, and cloud environments. Adept at building robust software pipelines and leading teams. Recognized for driving innovation in cybersecurity, large-scale distributed systems, and embedded software projects.
 
+### Dr. Orna Yehuda Abramson
+
+https://www.linkedin.com/in/droya/
+
+Dr. Orna Yehuda Abramson is an experienced startup professional, innovation researcher, and development consultant. With a background in behavioral cognitive psychology and data-driven strategy, she specializes in applying behavioral science to cybersecurity challenges, enhancing user security awareness, and driving innovative solutions in the industry.
+
 ### Roy Melzer
 
 [https://www.linkedin.com/in/roymelzer/](https://www.linkedin.com/in/roymelzer/)
