@@ -39,12 +39,6 @@ We generate unique encryption keys using each user’s biometric data, ensuring 
 
 Lior is a software developer with extensive experience designing and delivering high-performance, cross-platform solutions on Windows, Linux, Android, iOS, and cloud environments. Adept at building robust software pipelines and leading teams. Recognized for driving innovation in cybersecurity, large-scale distributed systems, and embedded software projects.
 
-### Ronen Rozenberg
-
-[https://www.linkedin.com/in/ronen-rozenberg-80042a10/](https://www.linkedin.com/in/ronen-rozenberg-80042a10/)
-
-Ronen has been at the forefront of computer vision AI technology for over 15 years, leading research and development teams in deep learning and AI across various startup companies. Most recently, he was the Head of AI at Sizer.
-
 ### Roy Melzer
 
 [https://www.linkedin.com/in/roymelzer/](https://www.linkedin.com/in/roymelzer/)
