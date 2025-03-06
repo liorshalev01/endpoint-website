@@ -39,3 +39,6 @@ callouts:
     color: endpoint
 
 plugins: []
+
+ga_tracking: G-X4W72FT9JQ
+ga_tracking_anonymize_ip: true
