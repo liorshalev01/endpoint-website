@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Endpoint Security
-email: lior.s@endpoint-sec.com
+email: info@endpoint-sec.com
 description: We deliver the ultimate air-gap security for remote endpoints by ensuring data is only decrypted at the user’s eye level.
 baseurl: ""
 domain: "endpoint-sec.com"
@@ -37,8 +37,6 @@ callouts_level: quiet
 callouts:
   highlight:
     color: endpoint
-
-plugins: []
 
 ga_tracking: G-X4W72FT9JQ
 ga_tracking_anonymize_ip: true
