@@ -43,7 +43,7 @@ Lior is a software developer with extensive experience designing and delivering 
 
 <a href="https://www.linkedin.com/in/droya/" target="_blank">https://www.linkedin.com/in/droya/</a>
 
-Dr. Orna Yehuda Abramson is an experienced startup professional, innovation researcher, and development consultant. With a background in behavioral cognitive psychology and data-driven strategy, she specializes in applying behavioral science to cybersecurity challenges, enhancing user security awareness, and driving innovative solutions in the industry.
+Dr. Orna Yehuda Abramson is an experienced startup professional, innovation researcher, and development consultant. With a background in cognitive & behavioral psychology and data-driven strategy, she specializes in applying cognitive and behavioral science to cybersecurity challenges, enhancing user security awareness, and driving innovative solutions in the industry.
 
 ### Roy Melzer
 
