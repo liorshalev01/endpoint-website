@@ -15,21 +15,25 @@ layout: default
 
 ## The Problem
 
-Endpoint devices are increasingly vulnerable—hackers can compromise them even when standard security measures are in place. As remote work spreads, the risk of data leakage at the “moment of use” grows. Many organizations either risk data exposure for convenience or adopt strict, productivity-limiting policies like full air-gapping.
+Endpoint devices are vulnerable. Hackers can attack them even when strict security policies are in place. Some organizations prefer the convenience of remote work but risk confidential data leaks from their employees’ endpoint devices. Other organizations give up the convenience of remote work and adopt strict air-gap policies.
 
 ## Our Solution
 
-Our patented **augmented reality (AR) glasses** provide ultimate air-gap security without sacrificing the flexibility of remote work. Data stays encrypted (“in motion”) until it reaches our specialized AR glasses. Even on the user’s laptop or smartphone, the data remains unreadable—only becoming clear in front of the wearer’s eyes. This approach thwarts endpoint-based attacks since no plain-text data is ever exposed to the operating system or network. Even if an attacker has full control of the user’s laptop or smartphone, the sensitive document they’re viewing remains encrypted for the attacker.
+Our patented **augmented reality (AR) glasses** provide air-gap security without sacrificing the flexibility of remote work. Data stays encrypted until it reaches our specialized AR glasses. Even on the user’s laptop or smartphone, the data remains encrypted and only becomes readable in front of the wearer’s eyes. This approach thwarts endpoint-based attacks since unencrypted data is never revealed to the operating system or network. Even if an attacker controls the user’s laptop or smartphone, the documents they’re viewing remain encrypted for the attacker.
+
+In addition, our solution enables secured user input, such as signing documents or working with interactive web applications. Even if an attacker controls the user’s device, it cannot read or replay the input.
 
 ## How It Works
 
-As the user views the data through the AR glasses, decryption happens optically, directly in front of the user’s eye. The laptop or smartphone screen acts as a _canvas_, displaying encrypted data that only the AR glasses can interpret.
+As the user views the data through the AR glasses, decryption happens optically, directly in front of the user’s eye. The laptop or smartphone screen acts as a *canvas*, displaying encrypted data that only the AR glasses can interpret.
 
-The AR glasses are disconnected from the network, creating an “air-gap” scenario where data only becomes usable at the final step—at the user’s eye level. The user wears the AR glasses while working on their laptop or smartphone. The screen shows encrypted output, but the AR overlay decrypts it in real time for the wearer.
+The AR glasses are disconnected from the network, creating an “air-gap” scenario where data only becomes usable at the final step, at the user’s eye level. The user wears the AR glasses while working on their laptop or smartphone. The screen shows encrypted output, but the AR overlay decrypts it in real time for the wearer.
 
 We generate unique encryption keys using each user’s biometric data, ensuring that only the rightful wearer of the AR glasses can decrypt and view the content. Even if the AR glasses are stolen, the data remains secure due to the personalized, biometric-based key generation.
 
-**Endpoint Security tackles the growing challenge of securing data in a remote work world.** It brings air-gap-level protection to everyday endpoints without sacrificing mobility or convenience. By decrypting data only within an isolated AR device, we ensure information stays safe from threats while enabling the flexibility modern organizations demand.
+**Endpoint Security mitigates the challenges of securing data in a remote work world.** It brings air gap level protection to everyday endpoints without sacrificing mobility or convenience. By decrypting data only within an isolated AR device, we ensure information stays safe from threats while enabling the flexibility modern organizations demand.
+
+**Our solution integrates with existing workflows and web applications,** and AR glasses users have a similar experience with these applications.
 
 ## About Us
 
