@@ -15,7 +15,7 @@ layout: default
 
 ## The Problem
 
-Endpoint devices are vulnerable. Hackers can attack them even when strict security policies are in place. Some organizations prefer the convenience of remote work but risk confidential data leaks from their employees’ endpoint devices. Other organizations give up the convenience of remote work and adopt strict air-gap policies.
+Endpoint devices are vulnerable. Attackers can take over them even when strict device security policies are in place. Some organizations prefer the convenience of remote work but risk confidential data leaks from their employees’ endpoint devices. Other organizations give up the convenience of remote work and adopt strict air-gap policies.
 
 ## Our Solution
 
