@@ -21,9 +21,11 @@ callouts:
 ga_tracking: G-X4W72FT9JQ
 ga_tracking_anonymize_ip: true
 
-# plugins:
-#   - jekyll-notion
+exclude:
+  - README.md
+  - serve
+  - "*.code-workspace"
 
-# notion:
-#   pages:
-#     - id: 1978879d650180399f7dc3e28da6e35d
+sass:
+  quiet_deps: true
+  silence_deprecations: ['import']
